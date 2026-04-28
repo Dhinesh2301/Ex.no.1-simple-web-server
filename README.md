@@ -31,7 +31,7 @@ Run the application using your IDE or via the command line (mvn spring-boot:run 
 Test the Endpoint:
 
 Open a web browser or use Postman to visit:
-http://localhost:8080/hello
+http://localhost:4000/hello
 
 You should see the output (e.g., "Hello World").
 
