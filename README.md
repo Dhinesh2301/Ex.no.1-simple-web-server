@@ -133,4 +133,8 @@ public class HelloController {
 
 <img width="1406" height="223" alt="image" src="https://github.com/user-attachments/assets/fdacf822-e3a9-452c-a4c1-c891593f60dc" />
 
+### Result:
+The Spring Boot application was successfully developed and executed, handling HTTP requests through RESTful endpoints.
+The /hello endpoint returned the expected response “Hello, Spring Boot!” on port 4000.
+
 
